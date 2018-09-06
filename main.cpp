@@ -1,4 +1,5 @@
 #include <stido.h>
+#include <sum.h>
 
 int main(void){
 	int i = 10;
